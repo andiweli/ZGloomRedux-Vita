@@ -3,24 +3,34 @@
 An overhauled version of ZGloom-Vita-Vita2D for the PlayStation Vita with GPU rendering and extended options and effects.  
 Based on version 3.0 of the [Vita2D version](https://github.com/andiweli/ZGloom-Vita-Vita2D) which is based on the [original Port by JetstreamSham](https://github.com/JetStreamSham/ZGloom-vita).
 
+## New Redux Live-Area
 ![livescreen](https://github.com/user-attachments/assets/ebf29c78-1648-46a0-a743-57835f179e52)
 
+## New Redux Game selector
 ![overhauled-ingame-gameselector](https://github.com/user-attachments/assets/59cfbc38-caf8-4092-bf2e-e9ac63bd79c8)
 
+## You can now continue a previously saved checkpoint
 ![titlescreen-load-game](https://github.com/user-attachments/assets/31ad8bbf-6f83-4174-9044-2fb7bbd66e68)
 
+## Overhauled In-game menu with lots of options
 ![overhauled-ingame-menu](https://github.com/user-attachments/assets/81d82451-97bc-41f4-8d93-45804827bc63)
 
+## Overhauled Sound FX screen with In-game ambience
 ![ingame-menu-soundfx](https://github.com/user-attachments/assets/2f23d3fe-202b-4fb2-bc6d-c39a1e914a22)
 
+## The biggest thing, new Display and GFX options
 ![ingame-menu-ggxoptions](https://github.com/user-attachments/assets/a2954358-4cbb-439b-9089-0aa8e94d2888)
 
+## And of course additional Cheats
 ![ingame-menu-cheats](https://github.com/user-attachments/assets/c27a7301-97c5-4263-a64e-faa62dfc0884)
 
+## Bullets and Ugrades now have reflections (pulsating)
 ![gfx-reflections](https://github.com/user-attachments/assets/41f38c48-16d3-4bac-a89c-79d436c6ec31)
 
+## Reflections follow bullets from player and enemies
 ![gfx-more-reflections](https://github.com/user-attachments/assets/a4e11d46-205b-48ed-954e-3dde4120f303)
 
+## Also a neat muzzle flash around the weapon
 ![gfx-muzzleflash-reflections](https://github.com/user-attachments/assets/1ba21148-5f94-42ba-aef0-8ec3f3c3d246)
 
 
