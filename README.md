@@ -1,7 +1,6 @@
 # ZGloom Redux for PSVITA
 
-An overhauled version of ZGloom-Vita-Vita2D for the PlayStation Vita with GPU rendering and extended options and effects.  
-Based on version 3.0 of the [Vita2D version](https://github.com/andiweli/ZGloom-Vita-Vita2D) which is based on the [original Port by JetstreamSham](https://github.com/JetStreamSham/ZGloom-vita).
+An overhauled version of ZGloom-Vita-Vita2D for the PlayStation Vita with GPU rendering and extended options and effects. Based on version 3.0 of the [Vita2D version](https://github.com/andiweli/ZGloom-Vita-Vita2D) which is based on the [original Port by JetstreamSham](https://github.com/JetStreamSham/ZGloom-vita).
 
 > [!IMPORTANT]
 > This is a WIP - it will be released when it's done and ready!
