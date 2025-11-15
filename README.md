@@ -3,6 +3,9 @@
 An overhauled version of ZGloom-Vita-Vita2D for the PlayStation Vita with GPU rendering and extended options and effects.  
 Based on version 3.0 of the [Vita2D version](https://github.com/andiweli/ZGloom-Vita-Vita2D) which is based on the [original Port by JetstreamSham](https://github.com/JetStreamSham/ZGloom-vita).
 
+> [!IMPORTANT]
+> This is a WIP - it will be released when it's done and ready!
+
 ## New Redux Live-Area
 ![livescreen](https://github.com/user-attachments/assets/ebf29c78-1648-46a0-a743-57835f179e52)
 
@@ -33,7 +36,8 @@ Based on version 3.0 of the [Vita2D version](https://github.com/andiweli/ZGloom-
 ## Also a neat muzzle flash around the weapon
 ![gfx-muzzleflash-reflections](https://github.com/user-attachments/assets/1ba21148-5f94-42ba-aef0-8ec3f3c3d246)
 
-
+> [!IMPORTANT]
+> This is a WIP - it will be released when it's done and ready!
 
 ## What is Gloom?
 
