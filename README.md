@@ -3,6 +3,28 @@
 An overhauled version of ZGloom-Vita-Vita2D for the PlayStation Vita with GPU rendering and extended options and effects.  
 Based on version 3.0 of the [Vita2D version](https://github.com/andiweli/ZGloom-Vita-Vita2D) which is based on the [original Port by JetstreamSham](https://github.com/JetStreamSham/ZGloom-vita).
 
+![livescreen](https://github.com/user-attachments/assets/ebf29c78-1648-46a0-a743-57835f179e52)
+
+![overhauled-ingame-gameselector](https://github.com/user-attachments/assets/59cfbc38-caf8-4092-bf2e-e9ac63bd79c8)
+
+![titlescreen-load-game](https://github.com/user-attachments/assets/31ad8bbf-6f83-4174-9044-2fb7bbd66e68)
+
+![overhauled-ingame-menu](https://github.com/user-attachments/assets/81d82451-97bc-41f4-8d93-45804827bc63)
+
+![ingame-menu-soundfx](https://github.com/user-attachments/assets/2f23d3fe-202b-4fb2-bc6d-c39a1e914a22)
+
+![ingame-menu-ggxoptions](https://github.com/user-attachments/assets/a2954358-4cbb-439b-9089-0aa8e94d2888)
+
+![ingame-menu-cheats](https://github.com/user-attachments/assets/c27a7301-97c5-4263-a64e-faa62dfc0884)
+
+![gfx-reflections](https://github.com/user-attachments/assets/41f38c48-16d3-4bac-a89c-79d436c6ec31)
+
+![gfx-more-reflections](https://github.com/user-attachments/assets/a4e11d46-205b-48ed-954e-3dde4120f303)
+
+![gfx-muzzleflash-reflections](https://github.com/user-attachments/assets/1ba21148-5f94-42ba-aef0-8ec3f3c3d246)
+
+
+
 ## What is Gloom?
 
 [Gloom](https://en.wikipedia.org/wiki/Gloom_(video_game)) was a 1995 Doom-clone from Black Magic Software for Commodore Amiga. It had [very messy and meaty graphics](https://www.lemonamiga.com/games/details.php?id=1781) and needed a very powerful Amiga computer back then (A1200 @ 030 was far too low). It had several official successors like Gloom Deluxe/Ultimate Gloom (a graphical enhanced Gloom), Gloom 3, Zombie Massacre and even some full-game conversion of 90's Amiga games.
